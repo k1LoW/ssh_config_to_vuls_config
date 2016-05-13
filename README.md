@@ -1,4 +1,4 @@
-# sc2vc: ssh_config to vuls config TOML format
+# sc2vc: ssh_config to vuls config TOML format [![Gem](https://img.shields.io/gem/v/ssh_config_to_vuls_config.svg)](https://rubygems.org/gems/ssh_config_to_vuls_config)
 
 ssh_config to [vuls](https://github.com/future-architect/vuls) config TOML format
 
