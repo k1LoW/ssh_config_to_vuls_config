@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['k1LoW']
   spec.email         = ['k1lowxb@gmail.com']
 
-  spec.summary       = 'ssh_config to vuls config TOML format'
-  spec.description   = 'ssh_config to vuls config TOML format'
+  spec.summary       = 'sc2vc: ssh_config to vuls config TOML format.'
+  spec.description   = 'sc2vc: ssh_config to vuls config TOML format.'
   spec.homepage      = 'https://github.com/k1LoW/ssh_config_to_vuls_config'
   spec.license       = 'MIT'
 
