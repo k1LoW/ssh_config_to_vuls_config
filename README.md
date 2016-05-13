@@ -36,10 +36,9 @@ Use [sconb](https://github.com/k1LoW/sconb) to filter ~/.ssh/config.
 $ sconb dump example_* | sconb restore | sc2vc > filtered_config.toml
 ```
 
-
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/ssh_config_to_vuls_config/fork )
+1. Fork it ( https://github.com/k1LoW/ssh_config_to_vuls_config/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
