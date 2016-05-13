@@ -22,8 +22,8 @@ module SshConfigToVulsConfig
         key_path = File.expand_path(detail['IdentityFile'].first)
         config[:servers][detail['Host']] = {
           host: detail['Hostname'],
-          port: detail['Port'] || 22,
           user: detail['User'] || 'root',
+          port: detail['Port'] || '22',
           keyPath: key_path
         }
       end
