@@ -1,6 +1,7 @@
 require 'thor'
 require 'sconb'
 require 'toml'
+require 'timeout'
 
 module SshConfigToVulsConfig
   class CLI < Thor
